@@ -34,3 +34,6 @@ A simple Python script to monitor the in-game time of a **7 Days to Die** server
 
 ```bash
 python bloodmoon_announcer.py
+
+
+This project is licensed under the MIT License. See the LICENSE file for details.
